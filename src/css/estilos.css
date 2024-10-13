@@ -60,8 +60,8 @@ margin-bottom: 5px;
     background-color: #ffffff;
     font-size: 12px;
     opacity: 0.7;
-    border-radius: 10px;
-    padding: 2px, 10px;
+    border-radius: 8px;
+    padding: 2px;
 }
 
 .cartao-pokedev .detalhes {
